@@ -1,0 +1,17 @@
+.navbar-default {
+    background-color: #4fd2c2;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #000;
+    background-color: #4fd2c2;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: #4fd2c2;
+}
